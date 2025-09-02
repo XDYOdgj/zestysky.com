@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zestysky.com/sitemap.xml
